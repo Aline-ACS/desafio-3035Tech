@@ -1,0 +1,65 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.fonte-titulo {
+    font-family: 'Yeseva One', cursive;
+    font-size: 2rem;
+    color: #738A9A;
+}
+
+.fonte-item,
+.fonte-item:hover {
+    font-family: 'Yeseva One', cursive;
+    font-size: 1.2rem;
+    color: white ;
+    text-decoration: none;
+}
+
+.background {
+    background-color: #738A9A;;
+}
+
+.logo {
+    width: 30%;
+    height: 30%;
+}
+
+.itemNavegacao {
+    color: white!important;
+    font-size: 1.5em;
+}
+
+.itemNavegacao:hover{
+    color: white!important;
+    font-weight: 700;
+    font-size: 1.6em;
+}
+
+.width-img {
+    max-width: 28rem;
+}
+
+.margin {
+    margin-top: 4rem;
+}
+
+.ativo {
+    text-decoration: underline;
+}
+
+.form {
+    font-size: 1.3rem;
+}
+
+.form-desafio3 {
+    font-size: 1rem;
+    width: 100%;
+}
+
+.form-desafio4 {
+    width: 20rem;
+    height: 25rem;
+}
